@@ -37,10 +37,10 @@
 
 ### 🌍 Connect with Me:
 <p>
-  <a href="mailto:mustaphabouddahr@example.com">
+  <a href="mailto:mustaphabouddahr347@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="www.linkedin.com/in/mustapha-bouddahr-830787338">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://yourportfolio.com">
