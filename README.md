@@ -14,6 +14,7 @@
 - 🧑‍🎓 **Student:** Full-Stack Development, OFPPT ISTA NTIC, Guelmim
 - 🚀 **Front-End Focused:** Experienced with **JavaScript**, **React**, and **Bootstrap**
 - 🎨 **UI/UX Enthusiast:** Designing with **Figma** for intuitive interfaces
+- 🖌️ **Design Skills:** Skilled in **Photoshop** and **Illustrator**, with basic knowledge in **Premiere Pro** for video editing
 
 ---
 
