@@ -25,7 +25,11 @@
   <img src="https://img.shields.io/badge/Framework-Bootstrap-purple?style=flat&logo=bootstrap&color=563D7C" />
   <img src="https://img.shields.io/badge/Design-Figma-ff69b4?style=flat&logo=figma&color=F24E1E" />
   <img src="https://img.shields.io/badge/Version%20Control-Git%20&%20GitHub-blueviolet?style=flat&logo=git&color=F05032" />
+  <img src="https://img.shields.io/badge/Runtime-Node.js-green?style=flat&logo=node.js&color=68A063" />
+  <img src="https://img.shields.io/badge/Framework-Express.js-black?style=flat&logo=express&color=000000" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb&color=47A248" />
 </p>
+
 
 ---
 
