@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb&color=47A248" />
 </p>
 
-
 ---
 
 ### 🎯 Goals:
@@ -44,10 +43,10 @@
   <a href="mailto:mustaphabouddahr347@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/mustapha-bouddahr-830787338">
+  <a href="https://www.linkedin.com/in/mustapha-bouddahr-830787338">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://yourportfolio.com"> <!-- Replace with your actual portfolio URL -->
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -57,4 +56,3 @@
 </p>
 
 ---
-
