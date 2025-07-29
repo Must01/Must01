@@ -85,14 +85,6 @@
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/Must01/Must01?style=flat-square" />
-</p>
-
----
-
 <p align="center">
   🙏 Thanks for visiting! Let's build something awesome together 💻🚀
 </p>
