@@ -1,65 +1,98 @@
-# 👋 Hi there! I'm Mustapha Bouddahr
+<p align="center">
+  <img src="https://img.shields.io/badge/Available-Freelance-brightgreen?style=flat-square" />
+</p>
 
-**🎓 Full-Stack Web Developer | Laravel & React Specialist**  
-🌟 *Transforming ideas into fast, responsive, and interactive web apps* 🌟
+<h1 align="center">Hi there! 👋 I'm Mustapha Bouddahr</h1>
 
-![Status](https://img.shields.io/badge/Available-Freelance-brightgreen?style=flat-square)
+<p align="center">
+  <b>Full-Stack Web Developer | Laravel & React Enthusiast</b><br>
+  🌍 Based in Guelmim, Morocco · 🧠 Focused on clean code & creative UI
+</p>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Diploma in Full-Stack Web Development – OFPPT ISTA NTIC, Guelmim  
-- 🧠 Skilled in both Frontend (React, Tailwind) and Backend (Laravel, MySQL/SQLite)  
-- 💡 Passionate about clean code, great UI/UX, and solving real problems  
-- 🧰 Experienced in designing with **Figma**, **Photoshop**, and **Illustrator**  
-- 🎥 Basic knowledge of **Premiere Pro** for video editing  
-- 📂 Real-world projects: dashboards, booking systems, certificate generators, etc.  
-- 💼 Open to remote work, internships, or freelance collaborations
+<p align="center">
+  <i>“Transforming ideas into fast, responsive, and real-world web applications.”</i>
+</p>
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 📜 About Me
 
-![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=flat&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-68A063?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- 🎓 Diploma in **Full-Stack Web Development** — OFPPT ISTA NTIC, Guelmim  
+- ⚡ Passionate about both **Frontend** (React, Tailwind, CSS) & **Backend** (Laravel, SQL, MongoDB)  
+- 🛠️ Built real apps: **Certificate Generator**, **Booking System**, **Dashboards**, etc.  
+- 🖌️ UI/UX Designer using **Figma**, **Photoshop**, and **Illustrator**  
+- 🎯 Always learning, always building, open to **freelance**, **internships**, and **remote jobs**
 
 ---
 
-## 🎯 Goals
+## 🚀 Tech Stack
 
-- 🚀 Master full-stack development (Laravel + React stack)
-- 💼 Launch a successful freelance web development career
-- 🌐 Build scalable and beautiful applications that solve real-world problems
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+---
+
+## 🧰 Tools I Use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/TablePlus-FFCC00?style=for-the-badge&logo=tableplus&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Mastering full-stack development using **Laravel + React**
+- 📈 Building scalable and responsive apps for **real-world users**
+- 🤝 Collaborating on open source or freelance projects
 
 ---
 
 ## 🌐 Portfolio
 
-🖥️ **Live Portfolio:** [mustaphabouddahr.netlify.app](https://mustaphabouddahr.netlify.app)
+<p align="center">
+  🖥️ <strong>Live Portfolio:</strong>  
+  <a href="https://mustaphabouddahr.netlify.app" target="_blank">
+    mustaphabouddahr.netlify.app
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📬 Connect with Me
 
-![Mustapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Must01&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Must01&layout=compact&theme=radical)
-
----
-
-## 🌍 Connect with Me
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustaphabouddahr347@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustapha-bouddahr-830787338)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=netlify&logoColor=white)](https://mustaphabouddahr.netlify.app)
+<p align="center">
+  <a href="mailto:mustaphabouddahr347@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mustapha-bouddahr-830787338">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🙏 Thanks for visiting! Let's build something great together 🚀
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/y/Must01/Must01?style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+  🙏 Thanks for visiting! Let's build something awesome together 💻🚀
+</p>
