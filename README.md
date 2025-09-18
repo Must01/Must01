@@ -5,21 +5,6 @@
 <h1 align="center">Hi there! 👋 I'm Mustapha Bouddahr</h1>
 
 <p align="center">
-  <b>Full-Stack Web Developer | Laravel & React Enthusiast</b><br>
-  🌍 Based in Guelmim, Morocco · 🧠 Focused on clean code & creative UI
-</p>
-
-<p align="center">
-  <i>“Transforming ideas into fast, responsive, and real-world web applications.”</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Available-Freelance-brightgreen?style=flat-square" />
-</p>
-
-<h1 align="center">Hi there! 👋 I'm Mustapha Bouddahr</h1>
-
-<p align="center">
   <b>Full-Stack Web Developer | Laravel, Livewire & React Enthusiast</b><br>
   🌍 Based in Guelmim, Morocco · 🧠 Focused on clean code, scalable apps & creative UI
 </p>
@@ -73,7 +58,7 @@
 
 ## 🎯 Current Goals
 
-* 🚀 Mastering **Full-Stack Development** using Laravel + Livewire + Flux
+* 🚀 Mastering **Full-Stack Development** using Laravel + Livewire + React
 * 📈 Building **scalable and responsive applications** for real-world users
 * 🤝 Collaborating on **open source**, freelance, and remote projects
 
